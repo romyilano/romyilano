@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @romyilano
-- 👀 I’m interested in building things
+- 👀 I’m interested in building thing like at https://www.miromi.com
 - 🌱 I’m currently learning how to learn
 - 💞️ I’m looking to collaborate on projects around art and motion
 - 📫 How to reach me --
