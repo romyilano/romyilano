@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @romyilano
-- 👀 I’m interested in building thing like at https://www.miromi.com
-- 🌱 I’m currently learning how to learn
-- 💞️ I’m looking to collaborate on projects around art and motion
-- 📫 How to reach me --
+- 👀 I'm interested in both building things and the process of building things https://www.linktree.com/romyilano
 
 <!---
 romyilano/romyilano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
