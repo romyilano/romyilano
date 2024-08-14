@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @romyilano
-- 👀 I'm interested in both building things and the process of building things https://bento.me/romyilano
+- 👀 I'm interested in both building things and the process of building things https://www.romyilano.com/blog
 
 <!---
 romyilano/romyilano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
