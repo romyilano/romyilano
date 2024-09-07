@@ -3,10 +3,9 @@
 - I love the SudoRoom hackerspace and Oakland https://www.sudoroom.org - the SF Bay Area is unique & will never be duplicated in the world
 - Meeting people in-person in a walkable city always is > online meetups
 - 👀 I'm interested in both building things and the process of building things and am rebuilding my personal blog https://www.romyilano.com/blog
-- **Caveat** I'm not a big javascript or web design person and the JS code on here is for prototyping :P so not all of it is clean
 
 <!---
 romyilano/romyilano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![52539305554_f69ede554f_c](https://github.com/user-attachments/assets/d6fdceb7-0af9-43dd-88a0-19ccccf4c517)
+
